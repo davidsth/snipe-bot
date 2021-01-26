@@ -1,0 +1,1 @@
+worker: ruby snipe_bot.rb
